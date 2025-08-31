@@ -1,7 +1,7 @@
 # Hi there, I'm Thanh 👋
 
 ## About Me  
-I am a Software Development Engineer in Test (SDET) with 4+ years of experience in the IT industry.  
+I am a Software Development Engineer in Test (SDET) in the IT industry.  
 My background covers both **manual and automation testing** and **software development** .  
 I am passionate about building reliable, scalable, and maintainable test automation frameworks to ensure product quality and accelerate delivery.
 
