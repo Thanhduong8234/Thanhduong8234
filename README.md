@@ -15,12 +15,10 @@ I am passionate about building reliable, scalable, and maintainable test automat
 
 ## Current Focus  
 - Enhancing expertise in **test automation frameworks** with modern tools and practices  
-- Expanding knowledge in **cloud platforms** and **low-code automation (PegaCloud)**  
+- Expanding knowledge in **cloud platforms** and **low-code automation **  
 - Building personal projects that combine **Java (backend)** and **React (frontend)** with CI/CD integration  
 
 ## Goals  
 - Deliver high-quality automation solutions and improve testing efficiency  
 - Advance towards a senior/lead SDET or Solution Architect role  
-- Aim for long-term career growth with an international salary goal of **$10,000/month**  
-
 ---
